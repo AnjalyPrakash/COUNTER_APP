@@ -1,7 +1,0 @@
-REDUX
---------------------------
-
--state management system
--js library 
--not only for react
--can be used in other frontend technologies
